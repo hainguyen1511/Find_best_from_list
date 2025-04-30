@@ -1,0 +1,2 @@
+oreo_flavor rater_n rater_c rater_r rater_k rater_a
+pb&j 2 4 2 0 0mega-stuf 2 3 4 0 2lemon 5 4 2 0 4chocolate 4 3 4 3 4birthday-cake 3 5 3 4 3double-stuf 4 4 3 3 4red-velvet 4 3 5 4 3Dunkin-Donuts-Mocha 3 1 5 5 5mini 3 4 4 0 5thins-coconut 4 5 3 5 5mint 4 4 5 4 5cinnamon-bun 0 5 5 5 4
